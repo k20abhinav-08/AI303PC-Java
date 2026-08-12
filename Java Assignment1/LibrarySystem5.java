@@ -99,7 +99,7 @@ class Magazine extends LibraryItem implements Issuable {
     }
 }
 
-public class LibraryManagementSystem {
+public class LibrarySystem5 {
 
     public static void main(String[] args) {
         LibraryItem[] items = new LibraryItem[4];
